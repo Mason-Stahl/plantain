@@ -30,7 +30,7 @@ I forget to water my plants. I also care about the intersection of nature and te
 ## Structure
 
 Homepage = Nursery:
-
+```
 `PlantCard`
 plant{svg image}
 pot{customizable}
@@ -48,11 +48,12 @@ species
     - Soil type
     - etc
 - `(manage - button)`
-  - change info: age, nickname, species, location, `health`?
+  - change info: age, nickname, species, location, health?
   - delete
   - notifications
-
+ ```
 `filter` - species
+
 `sort` - any of the categories bulleted in plantcard listed above.
 
 `settings`
