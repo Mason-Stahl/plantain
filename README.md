@@ -29,7 +29,7 @@ I forget to water my plants. I also care about the intersection of nature and te
 
 ## Structure
 
-HomePage:
+Homepage = Nursery:
 
 `PlantCard`
 plant{svg image}
@@ -63,7 +63,15 @@ species
 Extra Components:
 
 `health`
-- yellowing, bugs, drooping, browning, etc. 
+- yellowing, bugs, drooping, browning, etc.
+
+## Bot Info
+- One WhatsApp bot. Design cannot be customized, so start messages off with bold individual plant info ie.
+**"nickname" or kitchen monstera says:** Dont forget to water me tomorrow. 
+
+What can be customized:
+- Frequencey (day of, or # of days before)
+- Personality (minimal, sassy, informative, species specific, etc.)
 
 ## Design
 `Skuemorphic nursery` plants are handdrawn or hand svg created. 
