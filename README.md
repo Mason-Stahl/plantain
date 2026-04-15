@@ -20,3 +20,19 @@ I forget to water my plants. I also care about the intersection of nature and te
 - vines (tropical, flowering and leafy),
 - airplants, mossy plants (ie selaginella),
 - bromeliads (huge variety of).
+
+## Flow
+1. visit 'plaintain.masonstahl.com'.
+2. add your plants, filling out info about the species, est. age, window location, size...
+3. optionally for plants to text you reminders, go to settings, customize what you want to be notified for, and enter your phone #. Make sure this # is connected to WhatsApp.
+4. enjoy the growth! :greenthumbsup:
+
+## Design
+`Skuemorphic nursery` plants are handdrawn or hand svg created. 
+
+If you would like to contribute with your own 2D art of a particular species: Upload to: 'plantain.masonstahl.com/upload' 
+
+## Uploading
+- 500x500px
+- 3 colors max
+- Understand while greatly appreciated, your design may not be used.
